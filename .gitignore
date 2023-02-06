@@ -1,5 +1,5 @@
 # ignoring file
 /Unwanted.txt
 
-#ignoring folder
-Unwanted_folder/
+#ignoring all the .txt files inside a folder
+Unwanted_folder/*.txt
