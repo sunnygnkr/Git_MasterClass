@@ -1,4 +1,8 @@
 Some data for subbranch1
 
+
 Adding data in subrbanch3 but in the same file
 containing data from subbranch1 to create merge conflict.
+
+Merge conflict tjhrough subbranch1
+
