@@ -1,1 +1,3 @@
 Some data for subbranch1
+
+Merge conflict tjhrough subbranch1
