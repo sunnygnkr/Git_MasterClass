@@ -3,3 +3,4 @@
 
 #ignoring all the .txt files inside a folder
 Unwanted_folder/*.txt
+/bin/
